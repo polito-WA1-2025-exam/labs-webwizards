@@ -1,7 +1,7 @@
-# Group "GROUP NAME"
+# Group WebWizards 🧙‍♂️​
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
+- s345071 Mastrogiacomo Natale
 - s123456 LASTNAME FIRSTNAME
 - s123456 LASTNAME FIRSTNAME
 
