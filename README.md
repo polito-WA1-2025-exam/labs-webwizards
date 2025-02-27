@@ -1,9 +1,8 @@
 # Group WebWizards 🧙‍♂️​
 
 ## Members
+- s345011 Chinni Carella Filippo
 - s345071 Mastrogiacomo Natale
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
 
 # Exercise "NAME OF EXERCISE"
 
