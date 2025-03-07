@@ -6,6 +6,8 @@
 
 # Exercise "NAME OF EXERCISE"
 
+MemeGame
+
 # Lab Journal
 
 (you may update this file to keep track of the progress of your group work, throughout the weeks)
